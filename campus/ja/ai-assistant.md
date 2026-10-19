@@ -30,7 +30,7 @@ Claude でも ChatGPT でも、次の情報を入力します。
 | 項目 | 入力する値 |
 |---|---|
 | サーバーの URL | `https://api.dignite.com/campus-mcp` |
-| OAuth のクライアント ID | `Site_Mcp` |
+| OAuth のクライアント ID | `Mcp` |
 | OAuth のクライアントシークレット | 空欄のまま |
 
 接続するときに Dignite Campus のログイン画面が開きます。管理画面と同じアカウントでログインし、アクセスの許可を求める画面で許可してください。
@@ -44,7 +44,7 @@ Claude のウェブ版（claude.ai）で一度追加すると、デスクトッ�
 1. Claude で「Customize」→「Connectors」を開きます。
 2. 「Add custom connector」を押します。
 3. 名前（例：Dignite Campus）と、サーバーの URL `https://api.dignite.com/campus-mcp` を入力します。
-4. OAuth のクライアントの設定で「Use your own OAuth client」を選び（画面によっては「Advanced settings」を開き）、クライアント ID に `Site_Mcp` を入力します。クライアントシークレットは空欄のままにします。
+4. OAuth のクライアントの設定で「Use your own OAuth client」を選び（画面によっては「Advanced settings」を開き）、クライアント ID に `Mcp` を入力します。クライアントシークレットは空欄のままにします。
 5. 「Add」を押します。
 6. 追加したコネクタの「Connect」を押し、Dignite Campus にログインして許可します。
 
@@ -55,7 +55,7 @@ Free プランで追加できるカスタムコネクタは 1 つです。
 組織の Owner がコネクタを追加し、職員はそれぞれ自分のアカウントで接続します。
 
 1. Owner が「Organization settings」→「Connectors」で「Add」→「Custom」を選びます。種類を聞かれたら「Web」を選びます。
-2. サーバーの URL、クライアント ID `Site_Mcp` を入力し（シークレットは空欄）、「Add」を押します。
+2. サーバーの URL、クライアント ID `Mcp` を入力し（シークレットは空欄）、「Add」を押します。
 3. 職員は「Customize」→「Connectors」で、「Custom」と表示されたコネクタの「Connect」を押し、Dignite Campus にログインして許可します。
 
 ### チャットで使う
@@ -69,7 +69,7 @@ ChatGPT では「プラグイン」として追加します。Claude とは場�
 1. ChatGPT の [Plugins](https://chatgpt.com/plugins) を開きます。
 2. 「+」を押し、「Add custom MCP server」を選びます。
 3. 名前（例：Dignite Campus）を入力し、「Connection」にサーバーの URL `https://api.dignite.com/campus-mcp` を入力します。
-4. 認証で「OAuth」を選び、OAuth のクライアント（クライアント認証情報）の設定に、クライアント ID `Site_Mcp` を入力します。クライアントシークレットは空欄のままにします。トークンの認証方式を聞かれたら「none」（なし）を選びます。
+4. 認証で「OAuth」を選び、OAuth のクライアント（クライアント認証情報）の設定に、クライアント ID `Mcp` を入力します。クライアントシークレットは空欄のままにします。トークンの認証方式を聞かれたら「none」（なし）を選びます。
 5. 注意事項を確認して「I understand and want to continue」を押し、「Create as a plugin」を押します。
 6. 作成したプラグインをインストールし、表示に従って Dignite Campus にログインして許可します。
 
@@ -94,7 +94,7 @@ ChatGPT では「プラグイン」として追加します。Claude とは場�
 Claude Code からも接続できます。
 
 ```bash
-claude mcp add --transport http dignite https://api.dignite.com/campus-mcp --client-id Site_Mcp
+claude mcp add --transport http dignite https://api.dignite.com/campus-mcp --client-id Mcp
 ```
 
 追加したら Claude Code で `/mcp` を開き、dignite を選んで認証します。ブラウザで Dignite Campus にログインして許可します。
