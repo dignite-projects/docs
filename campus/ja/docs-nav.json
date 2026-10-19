@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "text": "はじめに",
+      "items": [
+        { "text": "Dignite Campus について", "path": "Index.md" },
+        { "text": "トライアルの申し込みと最初のログイン", "path": "getting-started.md" },
+        { "text": "職員の招待とロール", "path": "staff-and-roles.md" }
+      ]
+    },
+    {
+      "text": "学籍",
+      "items": [
+        { "text": "学籍の登録と管理", "path": "students.md" },
+        { "text": "学籍の一括取込", "path": "student-import.md" },
+        { "text": "学生のアプリ参加と学籍の連携", "path": "app-linking.md" }
+      ]
+    },
+    {
+      "text": "アルバイト",
+      "items": [
+        { "text": "アルバイト記録", "path": "work-logs.md" },
+        { "text": "給与明細", "path": "payslips.md" },
+        { "text": "リマインダーと長期休業期間", "path": "work-log-settings.md" }
+      ]
+    },
+    {
+      "text": "学生支援",
+      "items": [
+        { "text": "学生からの相談", "path": "consultations.md" },
+        { "text": "お知らせの配信", "path": "announcements.md" }
+      ]
+    }
+  ]
+}
