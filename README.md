@@ -22,6 +22,16 @@ The documentation of products whose source is private lives here for the same re
 
 Each folder is a separate project on the site, with its own languages, navigation and pages.
 
+### Documented in their own repository
+
+A product whose documentation follows its releases keeps it in its own repository (see [Versions](#versions)), and the site reads it from there, in the same format:
+
+| Repository | Product | Site |
+|---|---|---|
+| [`dignite-projects/abp-modules`](https://github.com/dignite-projects/abp-modules/tree/main/docs) (`docs/`) | Dignite ABP Modules: BLOB Storing, FlexFields, Notifications and the MCP server, open-source modules for the ABP Framework | `https://docs.dignite.com/{language}/abp-modules/{version}` |
+
+Its pages are written in that repository, next to the code, and are versioned by its releases.
+
 ## Layout of a product folder
 
 ```
