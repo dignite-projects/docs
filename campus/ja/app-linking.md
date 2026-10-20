@@ -17,15 +17,15 @@
 
 ### 学生向けのガイド
 
-アプリのインストール、学校への参加、アルバイトの記録、給与明細の提出、学校への相談、お知らせの見方を、学生向けに説明したページがあります。スマートフォンで読む 1 ページです。ページに学校コードは載っていないので、学校コードと一緒に案内してください。
+アプリのインストール、学校への参加、アルバイトの記録、給与明細の提出、学校への相談、お知らせの見方を、学生向けに説明したガイドがあります。ガイドに学校コードは載っていないので、学校コードと一緒に案内してください。
 
 ガイドは、簡体字中国語、繁体字中国語、ベトナム語、ミャンマー語、ネパール語、ベンガル語、英語の 7 言語です。日本語版はありません。
 
 **全員に同じリンクを配る場合**
 
-[https://docs.dignite.com/campus/student-guide](https://docs.dignite.com/campus/student-guide)
+[https://docs.dignite.com/campus-students](https://docs.dignite.com/campus-students)
 
-学生のスマートフォンの言語に合わせて、上の 7 言語のどれかで表示されます。それ以外の言語（日本語を含む）のスマートフォンでは英語で表示されます。学生はページの上部で言語を切り替えることもできます。
+英語で開きます。学生はガイドの言語メニューで自分の言語に切り替えられます（スマートフォンでは右上のメニューの中にあります）。
 
 ![学生向けガイドの QR コード](images/student-guide-qr.png)
 
@@ -33,13 +33,13 @@
 
 | 言語 | リンク |
 |---|---|
-| 简体中文（簡体字中国語） | [https://docs.dignite.com/campus/student-guide?lang=zh-Hans](https://docs.dignite.com/campus/student-guide?lang=zh-Hans) |
-| 繁體中文（繁体字中国語） | [https://docs.dignite.com/campus/student-guide?lang=zh-Hant](https://docs.dignite.com/campus/student-guide?lang=zh-Hant) |
-| Tiếng Việt（ベトナム語） | [https://docs.dignite.com/campus/student-guide?lang=vi](https://docs.dignite.com/campus/student-guide?lang=vi) |
-| မြန်မာ（ミャンマー語） | [https://docs.dignite.com/campus/student-guide?lang=my](https://docs.dignite.com/campus/student-guide?lang=my) |
-| नेपाली（ネパール語） | [https://docs.dignite.com/campus/student-guide?lang=ne](https://docs.dignite.com/campus/student-guide?lang=ne) |
-| বাংলা（ベンガル語） | [https://docs.dignite.com/campus/student-guide?lang=bn](https://docs.dignite.com/campus/student-guide?lang=bn) |
-| English（英語） | [https://docs.dignite.com/campus/student-guide?lang=en](https://docs.dignite.com/campus/student-guide?lang=en) |
+| 简体中文（簡体字中国語） | [https://docs.dignite.com/zh-Hans/campus-students/latest](https://docs.dignite.com/zh-Hans/campus-students/latest) |
+| 繁體中文（繁体字中国語） | [https://docs.dignite.com/zh-Hant/campus-students/latest](https://docs.dignite.com/zh-Hant/campus-students/latest) |
+| Tiếng Việt（ベトナム語） | [https://docs.dignite.com/vi/campus-students/latest](https://docs.dignite.com/vi/campus-students/latest) |
+| မြန်မာ（ミャンマー語） | [https://docs.dignite.com/my/campus-students/latest](https://docs.dignite.com/my/campus-students/latest) |
+| नेपाली（ネパール語） | [https://docs.dignite.com/ne/campus-students/latest](https://docs.dignite.com/ne/campus-students/latest) |
+| বাংলা（ベンガル語） | [https://docs.dignite.com/bn/campus-students/latest](https://docs.dignite.com/bn/campus-students/latest) |
+| English（英語） | [https://docs.dignite.com/en/campus-students/latest](https://docs.dignite.com/en/campus-students/latest) |
 
 ## 学生がアプリで行うこと
 

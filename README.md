@@ -19,8 +19,11 @@ The documentation of products whose source is private lives here for the same re
 | Folder | Product | Site |
 |---|---|---|
 | `campus/` | Dignite Campus, a school management system for Japanese language schools | `https://docs.dignite.com/{language}/campus/latest` |
+| `campus-students/` | The Dignite Campus guide for the students of those schools, in the languages of the student app | `https://docs.dignite.com/{language}/campus-students/latest` |
 
 Each folder is a separate project on the site, with its own languages, navigation and pages.
+
+In `campus-students/`, the words in bold are the app's own button and screen names, copied from the student app's translations: change them when the app's change. Schools hand out `https://docs.dignite.com/campus-students` (it opens in English, the default language) or a language's own address; the school manual lists them in `campus/ja/app-linking.md`.
 
 ### Documented in their own repository
 

@@ -1,0 +1,39 @@
+{
+  "Languages": [
+    {
+      "DisplayName": "简体中文",
+      "Code": "zh-Hans",
+      "IsDefault": false
+    },
+    {
+      "DisplayName": "繁體中文",
+      "Code": "zh-Hant",
+      "IsDefault": false
+    },
+    {
+      "DisplayName": "Tiếng Việt",
+      "Code": "vi",
+      "IsDefault": false
+    },
+    {
+      "DisplayName": "မြန်မာ",
+      "Code": "my",
+      "IsDefault": false
+    },
+    {
+      "DisplayName": "नेपाली",
+      "Code": "ne",
+      "IsDefault": false
+    },
+    {
+      "DisplayName": "বাংলা",
+      "Code": "bn",
+      "IsDefault": false
+    },
+    {
+      "DisplayName": "English",
+      "Code": "en",
+      "IsDefault": true
+    }
+  ]
+}
