@@ -32,8 +32,9 @@ A product whose documentation follows its releases keeps it in its own repositor
 | Repository | Product | Site |
 |---|---|---|
 | [`dignite-projects/abp-modules`](https://github.com/dignite-projects/abp-modules/tree/main/docs) (`docs/`) | Dignite ABP Modules: BLOB Storing, FlexFields, Notifications and the MCP server, open-source modules for the ABP Framework | `https://docs.dignite.com/{language}/abp-modules/{version}` |
+| [`dignite-projects/site`](https://github.com/dignite-projects/site/tree/main/docs) (`docs/`) | Dignite Site: an open-source, multi-tenant CMS for the ABP Framework, built and run from your own AI client over MCP | `https://docs.dignite.com/{language}/site/{version}` |
 
-Its pages are written in that repository, next to the code, and are versioned by its releases.
+Their pages are written in those repositories, next to the code, and are versioned by their releases.
 
 ## Layout of a product folder
 
