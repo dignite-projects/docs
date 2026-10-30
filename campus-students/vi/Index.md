@@ -34,21 +34,19 @@ Khi ứng dụng xin phép gửi thông báo, hãy chọn “Cho phép”. Như 
 ### Chuẩn bị trước
 
 - **Mã trường**: hãy hỏi trường.
-- Một trong hai loại thông tin sau:
-  - **Mã liên kết** trường đưa cho bạn, và **Ngày sinh** của bạn
-  - **Mã số học sinh**, **Ngày sinh** và **Số thẻ lưu trú** của bạn
+- **Mã số học sinh**, **Ngày sinh** và **Số thẻ lưu trú** của bạn.
 
 ### Các bước
 
 1. Mở ứng dụng, chạm vào **Tham gia trường của bạn**.
-2. Nhập mã trường, chọn cách xác minh, rồi nhập thông tin đã chuẩn bị ở trên và địa chỉ email của bạn. Sau này bạn sẽ đăng nhập bằng địa chỉ email này.
+2. Nhập mã trường, chọn **Liên kết bằng thông tin cá nhân**, rồi nhập mã số học sinh, ngày sinh, số thẻ lưu trú và địa chỉ email của bạn. Sau này bạn sẽ đăng nhập bằng địa chỉ email này.
 3. Chạm vào **Xác minh và tiếp tục**.
 4. Tạo tài khoản trên trang vừa mở. Nếu đã có tài khoản, chỉ cần đăng nhập.
 5. Quay lại ứng dụng, chạm vào **Đăng nhập**.
 
-<img src="images/join.webp" alt="Tham gia trường của bạn" width="290" height="585">
+<img src="images/join.webp" alt="Tham gia trường của bạn" width="290" height="731">
 
-Nếu thấy “Chúng tôi không thể tự xác minh các thông tin này”, hãy liên hệ trường. Trường sẽ cấp cho bạn mã liên kết để tham gia.
+Bạn có thể tự xác minh bằng thông tin của mình, không cần nhờ trường. Nếu thấy “Chúng tôi không thể tự xác minh các thông tin này”, hãy liên hệ trường. Trường sẽ cấp cho bạn mã liên kết: chọn **Liên kết bằng mã của trường**, rồi nhập mã liên kết và ngày sinh để tham gia.
 
 ## 3. Ghi giờ làm thêm mỗi ngày
 

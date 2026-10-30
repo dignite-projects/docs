@@ -34,21 +34,19 @@ When the app asks to send you notifications, choose “Allow”. Then you will g
 ### Have these ready
 
 - **School code**: ask your school.
-- One of the following:
-  - the **Link code** your school gave you, and your **Date of birth**
-  - your **Student number**, **Date of birth** and **Residence card number**
+- Your **Student number**, **Date of birth** and **Residence card number**.
 
 ### Steps
 
 1. Open the app and tap **Join your school**.
-2. Enter the school code, choose how to verify, then enter the details above and your e-mail address. You will sign in with this e-mail address.
+2. Enter the school code, choose **Link with my details**, then enter your student number, date of birth, residence card number and e-mail address. You will sign in with this e-mail address.
 3. Tap **Verify and continue**.
 4. Create your account on the page that opens. If you already have an account, just sign in.
 5. Back in the app, tap **Sign in**.
 
-<img src="images/join.webp" alt="Join your school" width="290" height="585">
+<img src="images/join.webp" alt="Join your school" width="290" height="731">
 
-If you see “We could not verify these details on our own”, contact your school. They will give you a link code to join with.
+You can verify with your own details, without asking the school for help. If you see “We could not verify these details on our own”, contact your school. They will give you a link code: choose **Link with school code**, then enter the code and your date of birth to join.
 
 ## 3. Record your work every day
 
