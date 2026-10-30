@@ -20,9 +20,12 @@ Dignite Campus तपाईंको विद्यालयले प्रय
 
 ## १. एप इन्स्टल गर्नुहोस्
 
-App Store वा Google Play मा “Dignite Campus” खोजेर इन्स्टल गर्नुहोस्।
+App Store वा Google Play मा “Dignite Campus” खोजेर इन्स्टल गर्नुहोस्। तलका लिङ्कबाट पनि स्टोर खोल्न सक्नुहुन्छ; कम्प्युटरमा यो निर्देशिका पढ्दै हुनुहुन्छ भने फोनले QR कोड स्क्यान गर्नुहोस्।
 
-<!-- The App Store and Google Play badges go here once the app is in the stores. -->
+| iPhone | Android |
+|:---:|:---:|
+| [App Store खोल्नुहोस्](https://apps.apple.com/app/dignite-campus/id6824774968) | [Google Play खोल्नुहोस्](https://play.google.com/store/apps/details?id=com.dignite.campus) |
+| <img src="images/qr-app-store.svg" alt="App Store को QR कोड" width="150" height="150"> | <img src="images/qr-google-play.svg" alt="Google Play को QR कोड" width="150" height="150"> |
 
 एपले सूचना पठाउने अनुमति माग्दा अनुमति दिनुहोस्। यसो गरेमा मात्र तपाईंले विद्यालयको जवाफ, सूचना र काम रेकर्ड गर्ने सम्झना पाउनुहुन्छ।
 

@@ -20,9 +20,12 @@ Dignite Campus is the app your school uses. With it you can:
 
 ## 1. Install the app
 
-Search for “Dignite Campus” on the App Store or Google Play and install it.
+Search for “Dignite Campus” on the App Store or Google Play and install it. You can also open the store from the links below; if you are reading this on a computer, scan the QR code with your phone.
 
-<!-- The App Store and Google Play badges go here once the app is in the stores. -->
+| iPhone | Android |
+|:---:|:---:|
+| [Open App Store](https://apps.apple.com/app/dignite-campus/id6824774968) | [Open Google Play](https://play.google.com/store/apps/details?id=com.dignite.campus) |
+| <img src="images/qr-app-store.svg" alt="QR code for the App Store" width="150" height="150"> | <img src="images/qr-google-play.svg" alt="QR code for Google Play" width="150" height="150"> |
 
 When the app asks to send you notifications, choose “Allow”. Then you will get your school's replies and announcements, and reminders to record your work.
 

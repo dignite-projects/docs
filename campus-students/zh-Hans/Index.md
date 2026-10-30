@@ -20,9 +20,12 @@ Dignite Campus 是你的学校使用的 App。用它可以：
 
 ## 1. 安装 App
 
-在 App Store 或 Google Play 搜索「Dignite Campus」并安装。
+在 App Store 或 Google Play 搜索「Dignite Campus」并安装。也可以点下面的链接直接打开商店；如果你在电脑上看这份手册，用手机扫描二维码。
 
-<!-- The App Store and Google Play badges go here once the app is in the stores. -->
+| iPhone | Android |
+|:---:|:---:|
+| [打开 App Store](https://apps.apple.com/app/dignite-campus/id6824774968) | [打开 Google Play](https://play.google.com/store/apps/details?id=com.dignite.campus) |
+| <img src="images/qr-app-store.svg" alt="App Store 二维码" width="150" height="150"> | <img src="images/qr-google-play.svg" alt="Google Play 二维码" width="150" height="150"> |
 
 App 请求发送通知时，请选择「允许」。这样你才能收到学校的回复、通知和打工记录的提醒。
 

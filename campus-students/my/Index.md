@@ -20,9 +20,12 @@ Dignite Campus သည် သင့်ကျောင်းက အသုံးပ
 
 ## ၁။ အက်ပ်ကို ထည့်သွင်းပါ
 
-App Store သို့မဟုတ် Google Play တွင် “Dignite Campus” ကို ရှာပြီး ထည့်သွင်းပါ။
+App Store သို့မဟုတ် Google Play တွင် “Dignite Campus” ကို ရှာပြီး ထည့်သွင်းပါ။ အောက်ပါ လင့်ခ်များမှလည်း စတိုးကို ဖွင့်နိုင်ပါသည်။ ဤလမ်းညွှန်ကို ကွန်ပျူတာတွင် ဖတ်နေပါက ဖုန်းဖြင့် QR ကုဒ်ကို စကင်န်ဖတ်ပါ။
 
-<!-- The App Store and Google Play badges go here once the app is in the stores. -->
+| iPhone | Android |
+|:---:|:---:|
+| [App Store ကို ဖွင့်ပါ](https://apps.apple.com/app/dignite-campus/id6824774968) | [Google Play ကို ဖွင့်ပါ](https://play.google.com/store/apps/details?id=com.dignite.campus) |
+| <img src="images/qr-app-store.svg" alt="App Store QR ကုဒ်" width="150" height="150"> | <img src="images/qr-google-play.svg" alt="Google Play QR ကုဒ်" width="150" height="150"> |
 
 အက်ပ်က အသိပေးချက် ပို့ရန် ခွင့်တောင်းသောအခါ ခွင့်ပြုပါ။ ခွင့်ပြုထားမှသာ ကျောင်း၏ အကြောင်းပြန်ချက်၊ ကြေညာချက်နှင့် အလုပ်မှတ်တမ်းတင်ရန် သတိပေးချက်များကို ရရှိမည်။
 

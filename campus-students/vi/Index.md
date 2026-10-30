@@ -20,9 +20,12 @@ Dignite Campus là ứng dụng mà trường của bạn sử dụng. Với ứ
 
 ## 1. Cài đặt ứng dụng
 
-Tìm “Dignite Campus” trên App Store hoặc Google Play và cài đặt.
+Tìm “Dignite Campus” trên App Store hoặc Google Play và cài đặt. Bạn cũng có thể mở cửa hàng bằng liên kết bên dưới; nếu đang đọc hướng dẫn này trên máy tính, hãy dùng điện thoại quét mã QR.
 
-<!-- The App Store and Google Play badges go here once the app is in the stores. -->
+| iPhone | Android |
+|:---:|:---:|
+| [Mở App Store](https://apps.apple.com/app/dignite-campus/id6824774968) | [Mở Google Play](https://play.google.com/store/apps/details?id=com.dignite.campus) |
+| <img src="images/qr-app-store.svg" alt="Mã QR App Store" width="150" height="150"> | <img src="images/qr-google-play.svg" alt="Mã QR Google Play" width="150" height="150"> |
 
 Khi ứng dụng xin phép gửi thông báo, hãy chọn “Cho phép”. Như vậy bạn mới nhận được câu trả lời và thông báo của trường, cùng lời nhắc ghi giờ làm thêm.
 
